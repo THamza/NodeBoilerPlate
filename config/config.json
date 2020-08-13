@@ -1,0 +1,20 @@
+{
+    "common": {
+      "JWT_MAIN_KEY": "$2a$12$4Y8GuDVxo6qJDJpDenLFY.kj27gxQNmMuta3I6Yr62N6h7WqbHnl",
+      "HASH_KEY": "2qSqpRy3pvy0gDCKdJWd2qSqpRy3pvy0gDCKdJWd",
+      "MAILER_API_KEY": "key-4f428b9f756b9a2fab2913f9ec1d7eac",
+      "DOMAIN": "sandboxdaa20787c9d04ecdb0ee78066dacb902.mailgun.org",
+      "MAILER_USERNAME": "h.touhs@alumni.aui.ma",
+      "MAILER_PASS": "A1e90c459b",
+      "ADMIN_ROUTE": "/api/admin"
+    },
+    "development": {
+      "PORT": 8080,
+      "MAILER_USERNAME": "h.touhs@aui.ma",
+      "MAILER_PASS": "iusethesamepass2",
+      "DB_URL": "mongodb://localhost:27017/MyWebsite",
+      "ACTIVATION_URL": "http://localhost:8080",
+      "DOMAIN_URL": "http://localhost:8080",
+      "RECOVERY_URL": "http://localhost:8080"
+    }
+  }

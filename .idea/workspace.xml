@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="568722c3-3389-4384-af4a-77900fb8b762" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g1FsyPFfpFSlE1r26xwF5npgSg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580057051613" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/routes" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\touhs\OneDrive\Desktop\WebBackend\routes" />
+      <recent name="C:\Users\touhs\OneDrive\Desktop\WebBackend\database\models" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="568722c3-3389-4384-af4a-77900fb8b762" name="Default Changelist" comment="" />
+      <created>1575477260854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575477260854</updated>
+      <workItem from="1575477264392" duration="2149000" />
+      <workItem from="1575669883848" duration="1052000" />
+      <workItem from="1575729466835" duration="555000" />
+      <workItem from="1576058600228" duration="3157000" />
+      <workItem from="1576958951755" duration="182000" />
+      <workItem from="1578578399686" duration="156000" />
+      <workItem from="1578578746229" duration="5436000" />
+      <workItem from="1578649891616" duration="597000" />
+      <workItem from="1578664302971" duration="205000" />
+      <workItem from="1578671935889" duration="270000" />
+      <workItem from="1578680768260" duration="210000" />
+      <workItem from="1578739104924" duration="195000" />
+      <workItem from="1578774099549" duration="446000" />
+      <workItem from="1578838290795" duration="11072000" />
+      <workItem from="1578871087958" duration="6206000" />
+      <workItem from="1578938839984" duration="271000" />
+      <workItem from="1578945448533" duration="932000" />
+      <workItem from="1578994516184" duration="3224000" />
+      <workItem from="1579031026682" duration="937000" />
+      <workItem from="1579046222598" duration="547000" />
+      <workItem from="1579264092402" duration="577000" />
+      <workItem from="1579393313575" duration="1054000" />
+      <workItem from="1579534852313" duration="1113000" />
+      <workItem from="1579545473330" duration="3552000" />
+      <workItem from="1579627216413" duration="205000" />
+      <workItem from="1579631329222" duration="6655000" />
+      <workItem from="1579690934242" duration="340000" />
+      <workItem from="1579702104822" duration="692000" />
+      <workItem from="1579726802068" duration="500000" />
+      <workItem from="1579894235988" duration="1915000" />
+      <workItem from="1580115584546" duration="265000" />
+      <workItem from="1580140113309" duration="1132000" />
+      <workItem from="1580143537257" duration="580000" />
+      <workItem from="1580294253092" duration="551000" />
+      <workItem from="1580309255544" duration="439000" />
+      <workItem from="1580311238505" duration="400000" />
+      <workItem from="1580328517844" duration="348000" />
+      <workItem from="1580377802878" duration="341000" />
+      <workItem from="1580655988477" duration="589000" />
+      <workItem from="1597274403441" duration="149000" />
+      <workItem from="1597274618095" duration="204000" />
+      <workItem from="1597274974431" duration="4228000" />
+      <workItem from="1597332994990" duration="7459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597274626871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597274626871" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597355886727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597355886727" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1597354982661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597354982661" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1597276107936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597276107936" />
+  </component>
+</project>

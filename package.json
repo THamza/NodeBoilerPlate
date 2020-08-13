@@ -1,0 +1,45 @@
+{
+  "name": "auiadmission",
+  "version": "1.0.0",
+  "description": "Automation of AUI Enrollment Procedure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/THamza/auiadmission.git"
+  },
+  "author": "Hamza Touhs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/THamza/auiadmission/issues"
+  },
+  "homepage": "https://gitlab.com/THamza/auiadmission#README",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.17.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.6",
+    "express-validator": "^5.3.1",
+    "hashids": "^1.2.2",
+    "http-errors": "^1.7.1",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.7",
+    "morgan": "^1.9.1",
+    "nodemailer": "^5.1.1",
+    "nodemailer-express-handlebars": "^3.0.0",
+    "nodemailer-mailgun-transport": "^1.4.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "sha.js": "^2.4.11",
+    "validator": "^10.11.0"
+  }
+}
